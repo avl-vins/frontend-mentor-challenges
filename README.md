@@ -11,7 +11,7 @@ In this repository, I will be solving various challenges from the Frontend Mento
 
 ## Completed Challenges
 
-- **[01 - QR code component][Go repo] (https://github.com/avl-vins/frontend-mentor-challenges/tree/master/qr-code-component) [Live] (https://frontedmentor-code-component.netlify.app/)**
+- **[01 - QR code component]**[Go repo](https://github.com/avl-vins/frontend-mentor-challenges/tree/master/qr-code-component) [Live](https://frontedmentor-code-component.netlify.app/)
 - **[Challenge 2 - Challenge Name](Frontend Mentor challenge link)**: Brief description of what I learned/solved in this challenge.
 - **[Challenge 3 - Challenge Name](Frontend Mentor challenge link)**: Brief description of what I learned/solved in this challenge.
 
